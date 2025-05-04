@@ -1,5 +1,10 @@
 # 🪙 Flip the Coin Game
 
+ ![Screenshot (1120)](https://github.com/user-attachments/assets/2274f667-351c-4184-bef7-33b120b5734a)
+![Screenshot (1121)](https://github.com/user-attachments/assets/38869fe2-1aac-4d8e-831b-55c35e18097f)
+
+
+
 A simple and fun coin flipping game built with HTML, CSS, and JavaScript. Flip the coin and see what fate decides!
 
 ## 🎮 How to Play
